@@ -11,7 +11,7 @@ int main()
 
     farenheit = (celsius * 9 / 5) + 32;
 
-    cout <<celsius << "°C son " << farenheit << "°F " << endl;
+    cout <<celsius << "Â°C son " << farenheit << "Â°F " << endl;
 
     return 0;
 }
